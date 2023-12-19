@@ -1,7 +1,3 @@
-Claro, ficarei feliz em ajudar você a criar um README para o seu jogo de adivinhar a palavra secreta em React. Abaixo está um exemplo de um README básico que você pode usar como ponto de partida. Lembre-se de personalizar conforme necessário para atender às especificidades do seu projeto.
-
----
-
 # Jogo de Adivinhar a Palavra Secreta em React
 
 Este é um simples jogo de adivinhar a palavra secreta construído em React. O jogador tem que adivinhar a palavra secreta antes de esgotar o número máximo de tentativas.
